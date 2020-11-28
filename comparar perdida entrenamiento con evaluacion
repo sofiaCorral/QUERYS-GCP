@@ -1,0 +1,4 @@
+
+Compara la pérdida en el entrenamiento con la evaluación
+
+ SELECT * FROM ML.TRAINING_INFO(model `taxi.taxifare_model`)

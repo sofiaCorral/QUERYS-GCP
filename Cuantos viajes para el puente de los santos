@@ -1,3 +1,4 @@
+
 ¿Cuantos viajes se hcieron en el puente de todos los difuntos/santos del 2018?
 
 SELECT COUNT(*)
